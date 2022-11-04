@@ -1,5 +1,6 @@
 # DataCollection
-Seminario sobre Data Collection y Scraping
+**Seminario sobre Data Collection y Scraping**
 
-Grupo 4
-Por Juan Ignacio Elias y Lucas Scarano
+__Grupo 4__
+
+Por __**Juan Ignacio Elias**__ y __**Lucas Scarano**__
